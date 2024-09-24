@@ -1,0 +1,77 @@
+body{
+    background: rgba(205, 93, 93, 1);
+}
+span{
+    color: rgba(248, 253, 13, 1);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+}
+p{
+    font-size: 50px;
+}
+.ch2{
+    font-size: 30px;
+    margin-top: 60px;
+}
+.parent2{
+    display: flex;
+    justify-content: start;
+    gap: 200px;
+    flex-wrap: wrap;
+    margin-left: 150px;
+}
+.chield1{
+    width: 380px;
+    height: 440px;
+    background-color: black;
+}
+.chield2{
+    width: 380px;
+    height: 440px;
+    background-color: black;
+
+}
+.chield3{
+    width: 380px;
+    height: 440px;
+    background-color: black;
+}
+.chield4{
+    width: 380px;
+    height: 440px;
+    background-color: black;
+}
+.chield5{
+    width: 380px;
+    height: 440px;
+    background-color: black;
+}
+.chield6{
+    width: 380px;
+    height: 440px;
+    background-color: black;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.p1{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.p2{
+    color: white;
+    text-align: center;
+}
+.p3{
+    font-size: 20px;
+    text-align: center;
+}
